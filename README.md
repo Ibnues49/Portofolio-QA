@@ -24,3 +24,21 @@ Untuk pengalaman kerja saya meliputi :
 - Melakukan pengecekan (_before - after_) terhadap core banking (Host/AS400) terhadap setiap melakukan testing
 - Membuat dokumentasi dan laporan hasil pengujian
 - Melaporkan isu atau bug kepada developer untuk tindak lanjut dan perbaikan terhadap bug yang ditemukan
+
+**4. PT Bank BRI |  QA Engineer | Tim Ceria**
+- Membuat Testcase pengujian berdasarkan dokumen Figma dan PRD
+- Melakukan testing website, android dan API
+- Dokumentasi hasil testing
+- Bekerja dengan metodologi Agile
+- Melakukan manual testing untuk mencari defect dan bugs pada pengujian
+- Kolaborasi dengan tim developer dan Project Manager
+
+**5. PT Bank BRI |  QA Engineer | Tim OCEAN**
+- Moderenisasi kartu kredit (acquiring and issuing)
+- Melakukan testing API menggunakan Postman untuk transaksi kartu credit
+- Melakukan pengecekan terhadap transaksi dan response API sesuai testcase pengujian
+- Melakukan verifikasi terhadap transaksi yang telah ditest apakah sesuai dengan core banking Way4 Manager
+- Dokumentasi hasil testing
+- Kolaborasi dengan tim developer dan Project Manager
+
+
