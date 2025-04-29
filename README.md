@@ -1,4 +1,4 @@
-# Portofolio-QA
+# Tentang saya
 
 **Tentang Saya**
 Saya adalah seorang Quality Assurance yang memiliki keterampil dalam meningkatkan proses dan menaikkan standar kualitas pada sistem. Saya telah membangun beberapa proyek QA untuk Website, Mobile Android dan API. 
